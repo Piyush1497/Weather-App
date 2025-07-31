@@ -1,2 +1,5 @@
 # Weather-App-
-Weather App using React for summer training
+This app is simple Weather App made using React
+
+and i have use openwether api for this.
+
